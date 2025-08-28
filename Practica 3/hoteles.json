@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "plazas": 2,
+        "equipamiento": [
+            "TV",
+            "Nevera"
+        ],
+        "ocupada": "false"
+    },
+    {
+        "id": 2,
+        "plazas": 3,
+        "equipamiento": [
+            "TV",
+            "Garaje"
+        ],
+        "ocupada": "true"
+    }
+]
